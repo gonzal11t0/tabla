@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6968689a !important;
+}
+.centered{
+    text-align: center !important;
+    vertical-align: middle !important;
+}
