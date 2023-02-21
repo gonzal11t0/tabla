@@ -48,8 +48,8 @@ const listUsers = async () => {
                     <td>${user.company.name}</td>
                     <td><i class="fa-solid fa-check"style="color:green;"></i></td>
                     <td>
-                        <buttom class="btn btn-sm btn-primary"><i class="fa-solid fa-pencil"></i></buttom>
-                        <buttom class="btn btn-sm btn-danger"><i class="fa-solid fa-trash-can"></i></buttom>
+                        <buttom class="btn btn-sm  btn-md  btn-lg  btn-xl  btn-xxl btn-primary"><i class="fa-solid fa-pencil"></i></buttom>
+                        <buttom class="btn btn-sm btn-md  btn-lg  btn-xl  btn-xxl btn-danger"><i class="fa-solid fa-trash-can"></i></buttom>
                     </td>
                 </tr>`;
         });

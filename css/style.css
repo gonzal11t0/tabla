@@ -7,3 +7,17 @@ body{
     text-align: center !important;
     vertical-align: middle !important;
 }
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    box-sizing: border-box;
+    display: inline-block;
+    min-width: 7em!important;
+    padding: 0.5em 1em;
+    margin-left: 2px;
+    text-align: center;
+    text-decoration: none !important;
+    cursor: pointer;
+    color: inherit !important;
+    border: 1px solid transparent;
+    border-radius: 2px;
+    background: transparent;
+}
