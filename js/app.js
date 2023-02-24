@@ -59,7 +59,12 @@ const listUsers = async () => {
         alert(ex);
     }
 };
+
 /*inicio la funcion*/
 window.addEventListener("load", async () => {
     await inciarDataTable();
+    $('#myTable').DataTable( {
+    responsive: true
+    }
+);
 });

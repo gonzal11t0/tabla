@@ -1,3 +1,9 @@
+@media screen and (max-width:1398px) {
+    .container{
+        width:100px;
+    }
+}
+
 @media screen and(max-width:340px) {
     .dataTables_wrapper .dataTables_paginate .paginate_button {
         box-sizing: border-box;
